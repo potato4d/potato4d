@@ -11,13 +11,16 @@
 2016年12月の予定です
 
 |日付|予定|
-|:--|:--||
+|:--|:--|
 |12/3~4|東京:CODE HAMMER|
 |12/10|大阪: [大阪:WordBench大阪・京都 LT大会](https://wbosaka.connpass.com/event/44622/) |
-|12/15|東京: [Frontend Weekly Meetup 2016](https://script-n-style.connpass.com/event/44658/)|
+|12/12|大阪:FC2017周りで用事|
+|12/15|東京:ガス屋のセットアップ立ち会い|
+|12/15|東京:[Frontend Weekly Meetup 2016](https://script-n-style.connpass.com/event/44658/)|
 |12/17|東京:[新居パーティ&忘年会](https://connpass.com/event/46728/)|
 |12/19|東京:内定先へ用事|
-|12/24|東京:予定が埋まらなかったらara_taさんところに殴り込み|
+|12/21|東京:ネット開通|
+|12/24|東京:クリスマスイブだしオタクたちのところどこか|
 |12/25~28あたり|大阪:FC2017-MTG|
 |12/29|大阪:年越し準備|
 
