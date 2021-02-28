@@ -1,19 +1,19 @@
-## Currently Status
+## Current Status
 
-- Senior Frontend Engineer / Advocates Lead at LINE Corp (since: Dec 2018 ~ )
+- Enginnering Manager / Senior Frontend Engineer at LINE Corp (since: Dec 2018 ~ )
 - CEO at ElevenBack LLC. (since: Sep 2019 ~)
 
 ## Skills
 
 - Tech
-  - Mainly
+  - Core Skill
     - Frontend
     - Node.js
     - User Interface / User Experience
-    - Cloud Native(Firebase)
+    - Cloud Native(Firebase, Google Cloud)
     - Open Source
   - Others
-    - Cloud Native(AWS, Google Cloud)
+    - Cloud Native(AWS)
     - PHP, Ruby
 - PR
   - Community Management
