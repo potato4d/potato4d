@@ -5,6 +5,7 @@
 
 ## Skills
 
+- Engineering Management
 - Tech
   - Core Skill
     - Frontend
@@ -24,6 +25,7 @@
 
 ## Career
 
+- LINE Corp. / Engineering Manager (2021-)
 - ElevenBack LLC. / CEO (2019-)
 - LINE Corp. / Senior Frontend Engineer (2018-)
 - Freelance / Frontend Consultant, Software Engineer, Writer (2017-2018)
