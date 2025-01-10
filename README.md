@@ -1,6 +1,6 @@
 ## Current Status
 
-- Enginnering Manager / Senior Frontend Engineer at LINE Corp (since: Dec 2018 ~ )
+- Senior Enginnering Manager(Dept. Manager) / Senior Frontend Engineer at LY Corp (since: Dec 2018 ~ )
 - CEO at ElevenBack LLC. (since: Sep 2019 ~)
 
 ## Skills
